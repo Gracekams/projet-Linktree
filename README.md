@@ -9,7 +9,8 @@ CSS : pour le style et la mise en page
 Déploiement
 
 Ce projet est déployé sur Vercel. Vous pouvez le voir en ligne à l’adresse suivante :
-https://linktree-projet-xneu.vercel.app
+lintree-projet-xneu-iky4pxqgk-kambajigrace-hotmailcoms-projects.vercel.app
+
 
 Auteur
 
